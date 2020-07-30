@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Andhika Prakasiwi 👨‍💻
+## Hi there, I'm Andhika Prakasiwi 👨‍💻 👋
 
 <!--
 **rakasiwi23/rakasiwi23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
